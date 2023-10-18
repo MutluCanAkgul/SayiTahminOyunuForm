@@ -1,0 +1,16 @@
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\bin\Debug\net6.0-windows\SayiTahminOyunuForm.exe
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\bin\Debug\net6.0-windows\SayiTahminOyunuForm.deps.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\bin\Debug\net6.0-windows\SayiTahminOyunuForm.runtimeconfig.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\bin\Debug\net6.0-windows\SayiTahminOyunuForm.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\bin\Debug\net6.0-windows\SayiTahminOyunuForm.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.Form1.resources
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.csproj.GenerateResource.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.AssemblyInfo.cs
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\refint\SayiTahminOyunuForm.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\SayiTahminOyunuForm.genruntimeconfig.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\SayiTahminOyunuForm\SayiTahminOyunuForm\obj\Debug\net6.0-windows\ref\SayiTahminOyunuForm.dll
